@@ -5,3 +5,10 @@ c:\users\choco-pie\source\repos\ScanPort_UDP\ScanPort_UDP\obj\Debug\ScanPort_UDP
 c:\users\choco-pie\source\repos\ScanPort_UDP\ScanPort_UDP\obj\Debug\ScanPort_UDP.csproj.CoreCompileInputs.cache
 c:\users\choco-pie\source\repos\ScanPort_UDP\ScanPort_UDP\obj\Debug\ScanPort_UDP.exe
 c:\users\choco-pie\source\repos\ScanPort_UDP\ScanPort_UDP\obj\Debug\ScanPort_UDP.pdb
+C:\Users\hands\Downloads\ScanPort_UDP-master\ScanPort_UDP\bin\Debug\ScanPort_UDP.exe.config
+C:\Users\hands\Downloads\ScanPort_UDP-master\ScanPort_UDP\bin\Debug\ScanPort_UDP.exe
+C:\Users\hands\Downloads\ScanPort_UDP-master\ScanPort_UDP\bin\Debug\ScanPort_UDP.pdb
+C:\Users\hands\Downloads\ScanPort_UDP-master\ScanPort_UDP\obj\Debug\ScanPort_UDP.csprojAssemblyReference.cache
+C:\Users\hands\Downloads\ScanPort_UDP-master\ScanPort_UDP\obj\Debug\ScanPort_UDP.csproj.CoreCompileInputs.cache
+C:\Users\hands\Downloads\ScanPort_UDP-master\ScanPort_UDP\obj\Debug\ScanPort_UDP.exe
+C:\Users\hands\Downloads\ScanPort_UDP-master\ScanPort_UDP\obj\Debug\ScanPort_UDP.pdb
